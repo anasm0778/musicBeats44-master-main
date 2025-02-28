@@ -27,7 +27,7 @@ SECRET_KEY = 'i5k=wt-bz0^$=vz&unfle6hqxr7^%^=qi_dw&^2^om#retym&w'
 DEBUG = True
 
 # ALLOWED_HOSTS = ['hittunes.herokuapp.com', 'localhost']
-ALLOWED_HOSTS = ['localhost','127.0.0.1']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'music-player-asyk.onrender.com']
 # ALLOWED_HOSTS = []
 
 
